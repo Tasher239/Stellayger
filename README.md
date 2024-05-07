@@ -2,4 +2,15 @@
 - интерактивный скайчарт, с которым вы узнате все созвездия неба!
 Приложение вдохновлено задачей запомнить созвездия на небе.
 
-<img src="https://github.com/Tasher239/ImageProcessor/blob/main/test_script/data/lenna_crop.bmp" width="200"/>
+## Главное меню
+<img src="https://github.com/Tasher239/Stellayger/blob/main/Screenshots/main_menu.png" width="500"/>
+
+## Игровое поле
+<img src="https://github.com/Tasher239/Stellayger/blob/main/Screenshots/game1.png" width="500"/>
+
+На игровой арене расставлены асстероиды и, столкнушись с одним из них или с границей карты, вы теряете 1 единицу здоровья. Ваша задача: облететь все последовательно загарающиеся звезды.
+
+## Уникальная превдоподобность
+<img src="https://github.com/Tasher239/Stellayger/blob/main/Screenshots/real_sky.png" width="500"/>
+
+Задний фон представялет из себя реальные снимки звездного неба из электронного планетария, поэтому звезды расположены относительно друг друга, как на настоящем звездном небе.
