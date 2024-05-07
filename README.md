@@ -5,6 +5,8 @@
 ## Главное меню
 <img src="https://github.com/Tasher239/Stellayger/blob/main/Screenshots/main_menu.png" width="500"/>
 
+В главном меню для каждого созвездия содержится реальная информация о его ярчайших звездах, периоде нахождения в нем Солнца и латинском полном и сокращенном наименовании.
+
 ## Игровое поле
 <img src="https://github.com/Tasher239/Stellayger/blob/main/Screenshots/game1.png" width="500"/>
 
